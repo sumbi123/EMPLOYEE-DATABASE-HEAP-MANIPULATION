@@ -1,0 +1,1 @@
+Run MAX HEAP then run EMPLOYEEDATA then open .exe file created by EMPLOYEEDATA to run program.
